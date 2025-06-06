@@ -1,5 +1,5 @@
 # Brain_Wave_Matrix_Solutions_Intern
-# 🧠 Brain Wave Matrix Solution - Internship Task 1
+# Task 1 - Create a sale data analysis of any commercial store.
 ## Supermarket Sales Data Analysis | Data Analytics
 
 ---
